@@ -1,0 +1,14 @@
+G:\Hotel Booking Project\HotelBooking.DAL\bin\Debug\net6.0\HotelBooking.DAL.deps.json
+G:\Hotel Booking Project\HotelBooking.DAL\bin\Debug\net6.0\HotelBooking.DAL.runtimeconfig.json
+G:\Hotel Booking Project\HotelBooking.DAL\bin\Debug\net6.0\HotelBooking.DAL.dll
+G:\Hotel Booking Project\HotelBooking.DAL\bin\Debug\net6.0\HotelBooking.DAL.pdb
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.csproj.AssemblyReference.cache
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.AssemblyInfoInputs.cache
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.AssemblyInfo.cs
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.csproj.CoreCompileInputs.cache
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.dll
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\refint\HotelBooking.DAL.dll
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.pdb
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\HotelBooking.DAL.genruntimeconfig.cache
+G:\Hotel Booking Project\HotelBooking.DAL\obj\Debug\net6.0\ref\HotelBooking.DAL.dll
